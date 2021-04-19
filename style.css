@@ -7,3 +7,20 @@ body{
     border-radius: 10px;
     box-shadow: 5px 5px 10px gray;
 }
+#transection-area{
+    display: none;
+}
+.status{
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.deposit{
+    background-color: rgb(20, 151, 20);
+}
+.withdraw{
+    background-color: rgb(241, 47, 47);
+}
+.balance{
+    background-color: gold;
+}
